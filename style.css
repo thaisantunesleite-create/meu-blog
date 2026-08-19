@@ -1,7 +1,11 @@
-root{
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playwrite+BR+Guides&display=swap');
+
+:root{
     --rosa-bebe: #ffe5ecff;
 --rosa-pastel: #ffc2d1ff;
--- rosa-claro: #ffb3c6ff;
---cotton-candy: #ff8fabff;
---petal-rouge: #fb6f92ff;
+--rosa: #ffb3c6ff;
+--rosa-: #ff8fabff;
+--rosa-forte: #fb6f92ff;
+--titulo: "Merriweather", serif;
+--texto:"Playwrite BR Guides", cursive;
 }
